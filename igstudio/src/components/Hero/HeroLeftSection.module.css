@@ -1,0 +1,22 @@
+.leftSectionWrapper{
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 85%;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.mainHeading{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 66px;
+}
+
+.secondaryPara{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 30%;
+}

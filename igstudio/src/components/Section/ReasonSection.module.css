@@ -1,0 +1,25 @@
+.wrapper{
+    background-color: #1d1d1d;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap:30px;
+    padding-bottom: 20px;
+    height: 551px;
+}
+.heading{
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 54px;
+}
+
+.cardWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
